@@ -1,3 +1,5 @@
+//672115039 Metavee Aeinjang
+//This code is for Tutorial4 in ADT and problem solving only!!
 package tutorial4;
 public class Queue {
     private String[] queue;
